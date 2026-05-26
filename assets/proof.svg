@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="332" font-family="monospace" font-size="13">
+<rect width="700" height="332" fill="#f8f9fa" rx="8"/>
+<rect width="700" height="28" fill="#1a365d" opacity="0.3" rx="8"/>
+<text x="15" y="18" fill="#1a365d" font-size="12" font-weight="bold">● MiMo Legal Analyzer</text>
+<text x="15" y="45" fill="#1a365d" font-size="12">$ python main.py analyze Series_A.pdf</text>
+<text x="15" y="63" fill="#888" font-size="12"></text>
+<text x="15" y="81" fill="#1a365d" font-size="12">📋 Contract Analysis: Series A Term Sheet</text>
+<text x="15" y="99" fill="#4a5568" font-size="12">Parties: [Startup Inc] vs [VC Fund LP]</text>
+<text x="15" y="117" fill="#4a5568" font-size="12">Governing Law: Delaware | Clauses: 47</text>
+<text x="15" y="135" fill="#888" font-size="12"></text>
+<text x="15" y="153" fill="#c53030" font-size="12">Risk Flags:</text>
+<text x="15" y="171" fill="#c53030" font-size="12">  CRITICAL  §4.2 — Drag-along, no floor</text>
+<text x="15" y="189" fill="#dd6b20" font-size="12">  HIGH      §7.1 — Unlimited indemnification</text>
+<text x="15" y="207" fill="#d69e2e" font-size="12">  MEDIUM    §3.4 — Vague MAC definition</text>
+<text x="15" y="225" fill="#38a169" font-size="12">  LOW       §9.3 — Standard NCA (12mo)</text>
+<text x="15" y="243" fill="#888" font-size="12"></text>
+<text x="15" y="261" fill="#c53030" font-size="12">Missing: force majeure, dispute resolution</text>
+<text x="15" y="279" fill="#dd6b20" font-size="12">Risk Score: 68/100 — MEDIUM-HIGH</text>
+</svg>
